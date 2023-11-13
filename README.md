@@ -1,5 +1,6 @@
-# DBMS-Assignment - 1 
+# DBMS-Assignment
 #submitted on 13-11-23
+# DBMS-Assignment - 1 
 “Home Services” is an online company that helps people find trusted helpers in their locality.
 Over 1000 helpers of different categories are registered at the company. The company currently
 provides the home services of Cleaning, Laundry, Dish Washing, Cooking, Care Takers,
